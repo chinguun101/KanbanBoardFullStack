@@ -2,7 +2,15 @@
 
 ## Demo
 
-Check out a live demonstration of the app here: [Loom Video Demo]()
+
+
+
+
+https://github.com/chinguun101/KanbanBoardFullStack/assets/100122425/87980133-22c7-4470-ad61-df89992faa22
+
+
+
+
 
 ## Features
 - **User Account Management**:
